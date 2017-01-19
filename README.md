@@ -38,9 +38,6 @@ This page will take a string, encrypt it, and then decrypt it.
 * Input Example: the a are
 * Output Example: taeha er
 
-
-
-
 ## Instructions
 
 * _Clone to local machine, open in browser._
